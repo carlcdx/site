@@ -15,7 +15,7 @@ interface Project {
 const projects: Project[] = [
   {
     id: "mail-server",
-    title: "Serveur Mail Auto-Hébergé",
+    title: "Serveur Mail Auto-Hébergé prout prout",
     shortDescription: "Infrastructure mail complète et sécurisée",
     fullDescription: "Service de messagerie auto-hébergé accessible via mail.carlc.fr. Cette solution garantit une confidentialité totale des échanges et une indépendance vis-à-vis des services tiers.",
     technicalDetails: "Implémenté avec Postfix et Dovecot, configuration DKIM/SPF/DMARC, protection anti-spam avec SpamAssassin, et interface webmail RainLoop.",
